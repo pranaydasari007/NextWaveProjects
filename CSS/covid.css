@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-containor {
+    border-color: #0967d219;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.top-section-heading {
+    font-family: Roboto;
+}
+
+.top-heading-description {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.button-colour {
+    color: rgb(25, 141, 112);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text-alignment {
+    text-align: right;
+
+}
+
+.middle-containor {
+    background-color: #0967d129;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.covid-card-text-container {
+    padding: 5px;
+    font-size: 13px;
+}
+
+.covid-card-text-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.covid-card-text-description {
+    font-size: 13px;
+}
+
+.covid-card-image {
+    width: 48px;
+    height: 48px;
+    margin: 10px;
+}
+
+.Symptoms-image1-description {
+    font-size: 5px;
+}
+
+.covid-card-container {
+    margin: 10px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.cough-symptom-bg {
+    background-color: #3ebd93;
+
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.Symptoms-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.fever-symptom-bg {
+    background-color: #e668a7;
+}
+
+.headace-symptom-bg {
+    background-color: #a368fc;
+}
+
+.covid-video-bg {
+    background-color: #1b020419;
+    height: 100vh;
+}
